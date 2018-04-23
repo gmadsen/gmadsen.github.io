@@ -24,4 +24,5 @@ title: Projects
 -	Implemented a ROSBridge to directly communicate and command a fetch research robot through web interface
 # Pendulum Arm Simulator
 [Pendulum Simulator](/pendulum_simulator)
+
 A three.js web app to simulate single and double pendulums. Various integration methods are implemented and PID gains and setpoints can be interactively set
