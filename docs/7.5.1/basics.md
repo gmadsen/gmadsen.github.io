@@ -69,7 +69,7 @@ You can add links to external pages to the sidebar by creating a new markdown fi
 ---
 title: External
 redirect_to: https://example.com/
-menu: true
+menu: false 
 order: 5
 ---
 ```
