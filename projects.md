@@ -6,14 +6,14 @@ title: Projects
 # Pick and Place Robot                                                   
 -	Built a fully functional 6 DOF robotic arm to autonomously stack blocks in various patterns
 -	Developed perception algorithms with OpenCV and Kinect
--	Gripper design with Solidworks and 3D printing
--	hardware communication with LCM and ROS
+-	Designed a gripper with Solidworks and 3D printing
+-	Used LCM and ROS for low level communication of hardware
 # Car Detection and Trajectory Planning                                                   
 
 
 ![alt text](/assets/img/bounding_box.png "Car Bounding Boxes")
 -	Trained convolution neural nets on unique data set of camera images and LIDAR  to detect number of cars in a scene and estimate 3D enclosing blocks 
--	Fully modeled car dynamics and implemented model predictive control  for trajectories created from non linear optimization of a predefined course
+-	Modeled various levels of car dynamics and implemented model predictive control  for trajectories created from non linear optimization of a predefined course
 -	Implemented random obstacle avoidance in real time with trajectory libraries
 # Robot Simulation web client                                                   
 [Kinematic Evaluator](/kinematic_evaluator)
