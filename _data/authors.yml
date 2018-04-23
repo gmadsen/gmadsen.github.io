@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-  garrett:
+ garrett:
   name:              Garrett Madsen
   email:             garrett.l.madsen@gmail.com
 
@@ -15,8 +15,8 @@
     path:            /assets/img/site_profile.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            
-      2x:            
+      1x:            /assets/img/site_profile.jpg
+      2x:            /assets/img/site_profile.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

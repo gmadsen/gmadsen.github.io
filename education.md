@@ -4,7 +4,9 @@ title: Education
 ---
 
 # University of Michigan, Ann Arbor
+
 ## MS Mechanical Engineering, Dec 2017
+
 - MATH 425 Probability
 - MATH 451 Real Analysis
 - EECS 560 Linear System Theory
@@ -16,8 +18,9 @@ title: Education
 - ROB 550: Robotics Lab
 
 # University of Nevada, Reno
-## BS Mechanical Engineering, Dec 2013
-### cum laude
+
+## BS Mechanical Engineering (cum laude), Dec 2013
+
 - ME 444 Intermediate Dynamics
 - ME 414 Intermediate Heat Transfer and Thermodynamics
 - ME 453 Mechanical Vibrations

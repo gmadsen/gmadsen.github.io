@@ -3,7 +3,8 @@ layout: page
 title: Skills
 ---
 
-## Languages
+# Languages
+
 - C/C++
 - Python
 - MATLAB
@@ -13,12 +14,14 @@ title: Skills
 - LabView
 - Javascript
 
-## Web
+# Web
+
 - HTML5
 - Javascript
 - CSS3
 
-##Software Frameworks
+# Software Frameworks
+
 - Pandas
 - Numpy
 - Keras
@@ -26,7 +29,8 @@ title: Skills
 - ROS
 - OpenCV
 
-## Electrical Design
+# Electrical Design
+
 - SIMULINK
 - Schematic Design
 - RF noise
@@ -35,7 +39,8 @@ title: Skills
 - CE Compliance
 - Analog and Digital PID Design
 
-## Mechanical Design
+# Mechanical Design
+
 - GTOL Design
 - FEA (thermal, Stuctural, Vibration)
 - Machining (lathe, CNC, 3D printing)
