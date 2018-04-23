@@ -25,7 +25,6 @@ title: Skills
 - scikit-learn
 - ROS
 - OpenCV
--  
 
 ## Electrical Design
 - SIMULINK
