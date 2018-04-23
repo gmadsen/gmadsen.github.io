@@ -3,7 +3,7 @@ layout: page
 title: Skills
 ---
 
-##Languages
+## Languages
 - C/C++
 - Python
 - MATLAB
@@ -25,7 +25,6 @@ title: Skills
 - scikit-learn
 - ROS
 - OpenCV
--  
 
 ## Electrical Design
 - SIMULINK
