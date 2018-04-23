@@ -46,3 +46,11 @@ title: Skills
 - Machining (lathe, CNC, 3D printing)
 - SolidWorks
 - Creo
+
+# Robotics
+
+- Kinematics
+- Dynamics
+- Controls
+- Motion Planning
+- Collision Avoidance

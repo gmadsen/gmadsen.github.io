@@ -6,3 +6,5 @@ description: >
 menu: false
 order: 6
 ---
+
+Sense, Reason, Act
