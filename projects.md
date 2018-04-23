@@ -17,6 +17,7 @@ title: Projects
 -	Implemented random obstacle avoidance in real time with trajectory libraries
 # Robot Simulation web client                                                   
 [Kinematic Evaluator](/kinematic_evaluator)
+![alt text](/assets/img/pathfind_kineval.png "Car Bounding Boxes")
 -	Implemented a robotics simulation in threejs for use on all modern web browsers  
 -	Created  IK and FK algorithms for general urdf input files
 -	Created Path planning and obstacle avoidance algorithms in high DOF system (potential fields,PRM,RRT)
@@ -24,5 +25,5 @@ title: Projects
 -	Implemented a ROSBridge to directly communicate and command a fetch research robot through web interface
 # Pendulum Arm Simulator
 [Pendulum Simulator](/pendulum_simulator)
-![alt text](/assets/img/pathfind_kineval.png "Car Bounding Boxes")
+
 A three.js web app to simulate single and double pendulums. Various integration methods are implemented and PID gains and setpoints can be interactively set
