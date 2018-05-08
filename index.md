@@ -7,7 +7,7 @@ menu: false
 order: 6
 ---
 
-Welcome to my home site, where you can view some of my projects and qualifications. Recent UMich grad and aspiring roboticist. I am a lover of math, robotics, nature, and the oxford comma. Currently, I am consumed with reinforcement learning and Terry Pratchett.
+Welcome to my home site, where you can view some of my projects and qualifications. Recent UMich grad and aspiring roboticist. I am a lover of math, robotics, nature, and the oxford comma.
 
 Feel free to email me with any interesting blogs, collaboration or work opportunities, or youth science initiatives.
 
