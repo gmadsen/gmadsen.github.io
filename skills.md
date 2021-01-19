@@ -19,7 +19,7 @@ title: Skills
 - HTML5
 - Javascript
 - CSS3
-
+- Flask
 # Software Frameworks
 
 - Pandas
