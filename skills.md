@@ -28,6 +28,7 @@ title: Skills
 - scikit-learn
 - ROS
 - OpenCV
+- Eigen
 
 # Electrical Design
 
@@ -49,8 +50,8 @@ title: Skills
 
 # Robotics
 
-- Kinematics
 - Dynamics
 - Controls
-- Motion Planning
+- Path Planning 
 - Collision Avoidance
+- Behaviors
