@@ -6,9 +6,17 @@ title: Experience
 
 # PROFESSIONAL EXPERIENCE
 
+## Software Engineer
+
+### Torc Robotics, July 2018 - Current
+
+#### Blacksburg, VA
+
+- Motion Planning, Behaviors, and Vehicle Interface
+
 ## Mechanical Engineer
 
-### Los Gatos Research, April 2014 - Current
+### Los Gatos Research, April 2014 - January 2018
 
 #### Mountain View, CA
 
